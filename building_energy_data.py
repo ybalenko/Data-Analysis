@@ -4,13 +4,13 @@ from pandas import DataFrame
 
 class BuidingEnergyReporter:
     '''
-    Before beginning to work on any of the following questions first exclude all rows where:
+    Before beginning to work first exclude all rows where:
     * The ENERGYSTARScore is blank.
     * The YearBuilt is less than “1920”.
     * The BuildingName contains “CENTER”.
 
-    QUESTIONS
-    Question 1: What was the name of the building that had the largest NumberofFloors?  
+    Questions.
+    Question 1: What was the name of the building that had the largest NumberofFloors?   
     Question 2: How many buildings had an ENERGYSTARScore of at least 97?
     Question 3: What is the median of the Site Energy Use Index (the SiteEUI(kBtu/sf) column) among all buildings that used natural gas?
     Question 4: Within the Ballard neighborhood, which buildings used more electricity than BIOMED FAIRVIEW RESEARCH CENTER in 2018?
