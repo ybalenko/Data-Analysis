@@ -1,6 +1,6 @@
 # Data-Analysis
 
-This [repository](https://github.com/ybalenko/Data-Analysis) contains samples of data analysis using **Python** and **Pandas** [1] in particular. You've got the dataset which should be transformed and after that you should apply filters to resolve the questions below.
+This [repository](https://github.com/ybalenko/Data-Analysis) contains samples of data analysis using **Python** and **Pandas** [1] in particular. You've got the dataset which should be transformed and after that you should apply filters to answer the questions.
 The dataset, in CSV format was downloaded from [here](https://data.seattle.gov/dataset/2018-Building-Energy-Benchmarking/7rac-kyay). 
 
 >   ```
